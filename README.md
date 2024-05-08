@@ -45,6 +45,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Chaose3/Chaose3/output/snake.svg" alt="Snake animation" />
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31kk26po4edf6cl3ilikbvd25cmm&unique={true|1|on|yes})
 
 ###
