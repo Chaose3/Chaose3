@@ -1,49 +1,21 @@
-<h2 align="left">Hi 👋! My name is Chaose3 and I'm a Student, from Los Angeles</h2>
+# Hi there! 👋 I'm Chaose3
 
-###
+![Blender Icon](https://raw.githubusercontent.com/tandpfun/skill-icons/master/Blender.png) ![Discord Icon](https://raw.githubusercontent.com/tandpfun/skill-icons/master/Discord.png) ![Python Icon](https://raw.githubusercontent.com/tandpfun/skill-icons/master/Python.png) ![Java Icon](https://raw.githubusercontent.com/tandpfun/skill-icons/master/Java.png) ![Kali Icon](https://raw.githubusercontent.com/tandpfun/skill-icons/master/Kali.png) ![PyCharm Icon](https://raw.githubusercontent.com/tandpfun/skill-icons/master/PyCharm.png) ![Red Hat Icon](https://raw.githubusercontent.com/tandpfun/skill-icons/master/Redhat.png) ![JavaScript Icon](https://raw.githubusercontent.com/tandpfun/skill-icons/master/JavaScript.png)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+Welcome to my GitHub profile! I'm passionate about Blender, Discord bot development, Python scripting, Java programming, cybersecurity with Kali Linux, PyCharm IDE, Red Hat technologies, and JavaScript web development.
 
-###
+## About Me
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+I'm a [Your Role/Profession/Interest], interested in [Your Interests]. With a strong background in [Your Expertise], I enjoy [Your Passions/Hobbies].
 
-###
+## What I'm Working On
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+Currently, I'm working on [Your Current Projects/Goals]. Feel free to check out my repositories to see what I've been up to!
 
-###
+## Get in Touch
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
+- Twitter: [@YourTwitterHandle](https://twitter.com/your-handle)
+- Personal Website: [Your Website](https://www.yourwebsite.com)
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
+Feel free to reach out if you have any questions, collaboration ideas, or just want to chat! 😊
