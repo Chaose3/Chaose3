@@ -1,10 +1,7 @@
-<h2 align="left">Hi 👋! My name is Chaose3 and I'm a Student, from LA</h2>
+<h2 align="left">Hi 👋! My name is Chaose3, and I'm a student, from LA</h2>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chaose3&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
-</div>
 
 ###
 
