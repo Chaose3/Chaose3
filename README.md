@@ -3,6 +3,7 @@
 ###
 
 
+
 ###
 
 <img align="right" height="150" src="https://i0.wp.com/www.beaude.net/no-flux/wp-content/uploads/2015/07/dLYfYLBGDmmQ3DSWcfNk8Q-default_x2.gif?resize=676%2C270&ssl=1"  />
@@ -35,9 +36,17 @@
   </a>
 </div>
 
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Chaose3/Chaotick/output/github-contribution-grid-snake.svg" />
+  
+
 ###
 
-<br clear="both">
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31kk26po4edf6cl3ilikbvd25cmm&unique={true|1|on|yes})
 
