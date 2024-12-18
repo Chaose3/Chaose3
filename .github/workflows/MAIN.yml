@@ -6,6 +6,10 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
+
 jobs:
   # This workflow contains a single job called "build"
   build:
@@ -34,7 +38,7 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.PAT_TOKEN }}
           branch: main
           force: true
 
