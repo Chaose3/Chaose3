@@ -38,12 +38,12 @@
 
 <br/>
 <hr/>
-
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Chaose3/Chaotick/output/github-contribution-grid-snake.svg" />
-  
+  <img src="https://github.com/Chaose3/Chaose3/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation">
+</div>
+
 
 ###
 
