@@ -2,7 +2,11 @@
 
 ###
 
-
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img src="https://Chaose3.github.io/Chaose3/snake.svg" alt="GitHub Snake Animation">
+</div>
 
 ###
 
@@ -36,18 +40,9 @@
   </a>
 </div>
 
-<br/>
-<hr/>
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img src="https://github.com/Chaose3/Chaose3/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation">
-</div>
 
 
 ###
 
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31kk26po4edf6cl3ilikbvd25cmm&unique={true|1|on|yes})
-
-###
