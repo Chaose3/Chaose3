@@ -9,9 +9,6 @@
 </div>
 
 ###
-
-<img align="right" height="150" src="https://i0.wp.com/www.beaude.net/no-flux/wp-content/uploads/2015/07/dLYfYLBGDmmQ3DSWcfNk8Q-default_x2.gif?resize=676%2C270&ssl=1"  />
-
 ###
 
 <div align="left">
